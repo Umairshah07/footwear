@@ -225,7 +225,7 @@
             <h2 style="font-size: 70px;"><strong>NEW</strong></h2>
             <h5 style="font-size: 20px;">ARRIVAL</h5>
             <h3 style="font-size: 30px;">UP TO <strong>30%</strong> OFF</h3>
-            <p style="font-size: 15px; color: darkgrey;"> NEW STYLISH SHOES FOR MEN</p>
+            <p style="font-size: 15px; color: #616161;"> NEW STYLISH SHOES FOR MEN</p>
             <a href="#" class="btn">SHOP COLLECTION</a>
           </div>
         </div>
@@ -234,7 +234,7 @@
           <div class="carousel-caption text-center ">
             <h1 style="font-size: 50px;"><strong >HUGE</strong></h1>
             <h2>SALE</h2>
-            <h2 style="font-size: 50px;"> <strong style="color: darkgrey; font-size: 50px;">50%</strong> OFF</h2>
+            <h2 style="font-size: 50px;"> <strong style="color: #616161; font-size: 50px;">50%</strong> OFF</h2>
             <p class="fs-5 " style="color: darkgrey;">BIG SANDALS SALE</p>
             <a href="#" class="btn">SHOP COLLECTION</a>
           </div>
